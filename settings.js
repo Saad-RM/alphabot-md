@@ -20,7 +20,7 @@ global.autoread = false // auto read pesan / message
 // Other
 global.botname = "𝙸𝚗𝚏𝚒𝚗𝚒𝚝𝚢𝘽𝙊𝙏𝙫3ོ" //namabot kalian
 global.ownername= "ᴹᴿ᭄ 𝙎𝙖𝙖𝙙 𝙍𝙈ོ ×፝֟͜×" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
+global.myweb ="https://youtube.com/channel/UCRomRuaJ_XxvWvusaRGZ-Zg" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCRomRuaJ_XxvWvusaRGZ-Zg" //bebas asal jan hapus
 global.github = "https:///" //bebas
 global.email = "null@gmail.com" //bebas
